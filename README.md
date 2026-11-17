@@ -1,4 +1,4 @@
-# Product Service (MySQL)
+# Product Service 
 
 A foundational REST Product Service for an online store, implemented with Python 3.12, FastAPI, SQLAlchemy 2, MySQL 8 and Alembic. It follows controller/router → service → repository → database layering and uses response DTOs rather than returning ORM entities directly.
 
@@ -13,7 +13,7 @@ A foundational REST Product Service for an online store, implemented with Python
 
 ## Prerequisites
 - Python 3.12+
-- MySQL 8.0+ (or Docker Desktop)
+- MySQL 8.0+ 
 - Git (recommended)
 
 ## Run locally on Windows PowerShell
